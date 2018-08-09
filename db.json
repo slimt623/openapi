@@ -7,8 +7,10 @@
      "description":"A layers chicken project that will start with one hundred point of lay chickens. These are chickens that lay table eggs for a least 1 year from the day of purchase. Buy this smart farm contract and have your own chicken project.",
      "budget":"1200", 
      "currency":"USD", 
-     "farmer-rating":"concession,zimbabwe",
-     "status":"6",
+     "farmer-rating":"6",
+     "duration":"8 weeks",
+     "location":"concession,zimbabwe",
+     "status":"Pending Funding",
      "image-url-1":"https://files.foreignaffairs.com/styles/medium-crop/s3/essay_16_masiyiwa_2.jpg",
      "image-url-2":"http://www.responsiblebusiness.com/wp-content/uploads/2017/09/Mobile-Money-Tech-Africa-1.png"
     },
@@ -18,8 +20,10 @@
      "description":"A layers chicken project that will start with one hundred point of lay chickens. These are chickens that lay table eggs for a least 1 year from the day of purchase. Buy this smart farm contract and have your own chicken project.",
      "budget":"1200", 
      "currency":"USD",
-     "farmer-rating":"marondera,zimbabwe",
-     "status":"6",
+     "farmer-rating":"8",
+     "duration":"5 months",
+     "location":"concession,zimbabwe",
+     "status":"In Progress",
      "image-url-1":"http://www.responsiblebusiness.com/wp-content/uploads/2017/09/Mobile-Money-Tech-Africa-1.png",
      "image-url-2":"https://files.foreignaffairs.com/styles/medium-crop/s3/essay_16_masiyiwa_2.jpg"
     }
