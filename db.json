@@ -7,12 +7,12 @@
      "description":"Project - Button Mushrooms Project Type - Vegetables",
      "budget":"2000", 
      "currency":"USD", 
-     "farmer-rating":"5",
+     "farmerrating":"5",
      "duration":"9 Months",
      "location":"Zimbabwe",
      "status":"Pending Funding",
-     "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
-     "image-url-2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
+     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
+     "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
     },
     { "id": 2,
      "title": "Cattle Fattening",
@@ -24,8 +24,8 @@
      "duration":"9 months",
      "location":"Zimbabwe",
      "status":"Pending Funding",
-     "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMANGADZE.png",
-     "image-url-2":"https://www.chronicle.co.zw/wp-content/uploads/sites/3/2012/08/cattle%20fattening.jpg"
+     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMANGADZE.png",
+     "imageurl2":"https://www.chronicle.co.zw/wp-content/uploads/sites/3/2012/08/cattle%20fattening.jpg"
     },
     { "id": 3,
      "title": "Free Range Chickens",
@@ -33,12 +33,12 @@
      "description":" Project - Free Range Chickens Project Type - Livestock",
      "budget":"2000", 
      "currency":"USD",
-     "farmer-rating":"5",
+     "farmerrating":"5",
      "duration":"9 months",
      "location":"Zimbabwe",
      "status":"Pending Funding",
-     "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMAZHAWIDZA.png",
-     "image-url-2":"https://upload.wikimedia.org/wikipedia/commons/7/70/Free_Range_chickens_feeding.jpg"
+     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMAZHAWIDZA.png",
+     "imageurl2":"https://upload.wikimedia.org/wikipedia/commons/7/70/Free_Range_chickens_feeding.jpg"
     }
   ]
 }
