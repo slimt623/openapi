@@ -1,18 +1,31 @@
 {
-  "projects": 
-  [
-    { "id": 1,
-     "title": "Button Mushrooms",
-     "farmer":"Mai Gweshe", 
-     "description":"Project - Button Mushrooms Project Type - Vegetables",
-     "budget":"2000", 
-     "currency":"USD", 
-     "farmer-rating":"5",
-     "duration":"9 Months",
-     "location":"Zimbabwe",
-     "status":"Pending Funding",
-     "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
-     "https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
-  ]
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
