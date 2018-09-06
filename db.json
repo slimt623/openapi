@@ -4,7 +4,7 @@
     { "id": 1,
      "title": "Button Mushrooms",
      "farmer":"Mai Gweshe", 
-     "description":"Project : Button Mushrooms Project Type : Vegetables",
+     "description":"Project - Button Mushrooms Project Type - Vegetables",
      "budget":"2000", 
      "currency":"USD", 
      "farmer-rating":"5",
@@ -17,7 +17,7 @@
     { "id": 2,
      "title": "Cattle Fattening",
      "farmer":"Mai Mangadze", 
-     "description":" Project : Cattle Fattening Project Type : Livestock",
+     "description":" Project - Cattle Fattening Project Type - Livestock",
      "budget":"2000", 
      "currency":"USD",
      "farmer-rating":"5",
@@ -26,19 +26,6 @@
      "status":"Pending Funding",
      "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMANGADZE.png",
      "image-url-2":"https://www.chronicle.co.zw/wp-content/uploads/sites/3/2012/08/cattle%20fattening.jpg"
-    },
-    { "id": 3,
-     "title": "Free Range Chickens",
-     "farmer":"Mai Mazhawidza", 
-     "description":" Project : Free Range Chickens Project Type : Livestock",
-     "budget":"2000", 
-     "currency":"USD",
-     "farmer-rating":"5",
-     "duration":"9 months",
-     "location":"Zimbabwe",
-     "status":"Pending Funding",
-     "image-url-1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIMAZHAWIDZA.png",
-     "image-url-2":"https://upload.wikimedia.org/wikipedia/commons/7/70/Free_Range_chickens_feeding.jpg"
     }
   ]
 }
