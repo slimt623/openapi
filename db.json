@@ -44,42 +44,44 @@
     "offers": 
   [
     { "id": 1,
-     "offer": "5% OFF",
+     "offer": "10% OFF",
      "title": "Self Care Matters A Revolutionary's Approach",
      "short_desc": "Self Care Matters: A Revolutionary's Approach First Edition is the inaugural text written by Anana Johari Harris Parris outlining, why self-care is revolutionary and how to develop your own Self Care Plan. ",
      "cat":"Books", 
-     "shoplink":"https://www.amazon.com/Self-Care-Matters-Revolutionarys-Approach/dp/0996891013/ref=sr_1_1?ie=UTF8&qid=1538162291&sr=8-1&keywords=self+care+matters+a+revolutionary%27s+approach",
+     "shoplink":"https://squareup.com/store/selfcareagency/item/self-care-matters-a-revolutionary-s-approach?square_lead=item_embed",
      "location":"USA",
      "status":"Pending Funding",
-     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
+     "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/v1539292073/IlbpImages/SelfCareMatterRevAPproach.jpg",
      "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
     },
     { "id": 2,
-     "offer": "5% OFF",
+     "offer": "FREE!",
      "title": "Self Care Matters A Revolutionary's Approach",
-     "short_desc": "Self Care Matters: A Revolutionary's Approach First Edition is the inaugural text written by Anana Johari Harris Parris outlining, why self-care is revolutionary and how to develop your own Self Care Plan. ",
+     "short_desc": "A self-care revolutionary is drowning in reasons, laced with habits, coated with people and surrounded by rules that do not support them taking good care of themselves but they begin to fight and take care of themselves anyway. ",
      "cat":"Books", 
      "shoplink":"https://www.amazon.com/Self-Care-Matters-Revolutionarys-Approach/dp/0996891013/ref=sr_1_1?ie=UTF8&qid=1538162291&sr=8-1&keywords=self+care+matters+a+revolutionary%27s+approach",
      "location":"USA",
      "status":"Pending Funding",
-     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
-     "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
-    },
-    { "id": 3,
-    "offer": "5% OFF",
-     "title": "Self Care Matters A Revolutionary's Approach",
-     "short_desc": "Self Care Matters: A Revolutionary's Approach First Edition is the inaugural text written by Anana Johari Harris Parris outlining, why self-care is revolutionary and how to develop your own Self Care Plan. ",
-     "cat":"Books", 
-     "shoplink":"https://www.amazon.com/Self-Care-Matters-Revolutionarys-Approach/dp/0996891013/ref=sr_1_1?ie=UTF8&qid=1538162291&sr=8-1&keywords=self+care+matters+a+revolutionary%27s+approach",
-     "location":"USA",
-     "status":"Pending Funding",
-     "imageurl1":"https://stage.bitmari.com/static/assets/all/images/farmers/MAIGWESHE.png",
-     "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
+     "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/v1539292075/IlbpImages/keep_gooing.jpg",
+     "imageurl2":"https://res.cloudinary.com/bitmari/image/upload/v1539292075/IlbpImages/keep_gooing.jpg"
     }
   ],
    "businesses": 
   [
-    { "id": 1,
+     { "id": 1,
+     "name": "Self Care Agency",
+     "short_desc": "Anana Harris Parris - A self-care revolutionary is drowning in reasons, laced with habits, coated with people and surrounded by rules that do not support them taking good care of themselves but they begin to fight and take care of themselves anyway.It is not enough to be an activist, mother, father or leader that takes care of others, you must be a self-care revolutionary and fight to take care of yourself.",
+     "cat":"Books", 
+     "email":"selfcareagency@gmail.com",
+     "phone":"+1 (404) 831-0237",
+     "address":"",
+     "country": "USA",
+     "website":"www.selfcareagency.com",
+     "status":"active",
+     "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/v1539292729/IlbpImages/headshot2.jpg",
+     "imageurl2":"https://res.cloudinary.com/bitmari/image/upload/v1539292075/IlbpImages/keep_gooing.jpg"
+    },
+    { "id": 2,
      "name": "III Eye Digital, LLC",
      "short_desc": "A digital marketing & multimedia design firm.",
      "cat":"Technology", 
@@ -92,7 +94,7 @@
      "imageurl1":"http://tdwsolution.com/iiieyedigital/wp-content/uploads/2018/01/cropped-imgpsh_fullsize.png",
      "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
     },
-    { "id": 2,
+    { "id": 3,
      "name": "Ma’ati Spa",
      "short_desc": "A day spa in downtown Winston-Salem.",
      "cat":"Beauty",  
@@ -103,19 +105,6 @@
      "website":"www.maatispa.com",
      "status":"active",
      "imageurl1":"https://cdn.shopify.com/s/files/1/1898/2051/files/maati-logo_ca5702b8-abbe-4519-9934-82c0e05099da_100x@2x.jpg?v=1492484546",
-     "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
-    },
-    { "id": 3,
-     "name": "III Eye Digital, LLC",
-     "short_desc": "A digital marketing & multimedia design firm.",
-     "cat":"Books", 
-     "email":"iiieyedigital@gmail.com",
-     "phone":"+1202-909-6234",
-     "address":"707 N. Main St. Suite B Winston-Salem, NC 27101",
-     "country": "USA",
-     "website":"www.iiieyedigital.com",
-     "status":"active",
-     "imageurl1":"http://tdwsolution.com/iiieyedigital/wp-content/uploads/2018/01/cropped-imgpsh_fullsize.png",
      "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
     }
   ]
