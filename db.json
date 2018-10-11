@@ -78,7 +78,7 @@
      "country": "USA",
      "website":"www.selfcareagency.com",
      "status":"active",
-     "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/v1539292729/IlbpImages/headshot2.jpg",
+     "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/c_scale,h_200/v1539292729/IlbpImages/headshot2.jpg",
      "imageurl2":"https://res.cloudinary.com/bitmari/image/upload/v1539292075/IlbpImages/keep_gooing.jpg"
     },
     { "id": 2,
