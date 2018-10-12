@@ -78,8 +78,9 @@
      "phone":"+1 (404) 831-0237",
      "address":"",
      "country": "USA",
-     "website":"www.selfcareagency.com",
+     "website":"https://squareup.com/store/selfcareagency/",
      "status":"active",
+     "date_added":"Oct 10,2018",
      "imageurl1":"https://res.cloudinary.com/bitmari/image/upload/c_scale,h_200/v1539292729/IlbpImages/headshot2.jpg",
      "imageurl2":"https://res.cloudinary.com/bitmari/image/upload/v1539292075/IlbpImages/keep_gooing.jpg"
     },
@@ -93,6 +94,7 @@
      "country": "USA",
      "website":"www.iiieyedigital.com",
      "status":"active",
+     "date_added":"Oct 10,2018",
      "imageurl1":"http://tdwsolution.com/iiieyedigital/wp-content/uploads/2018/01/cropped-imgpsh_fullsize.png",
      "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
     },
@@ -105,6 +107,7 @@
      "address":"707 N. Main St. Winston-Salem, NC 27101",
      "country": "USA",
      "website":"www.maatispa.com",
+     "date_added":"Oct 10,2018",
      "status":"active",
      "imageurl1":"https://cdn.shopify.com/s/files/1/1898/2051/files/maati-logo_ca5702b8-abbe-4519-9934-82c0e05099da_100x@2x.jpg?v=1492484546",
      "imageurl2":"https://www.sciencedaily.com/images/2008/02/080206090452_1_540x360.jpg"
